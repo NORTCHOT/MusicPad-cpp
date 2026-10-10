@@ -1,0 +1,218 @@
+[
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXBench.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXBench.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXBench.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXBench.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXCancellationRequest.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXCancellationRequest.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXCancellationRequest.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXCancellationRequest.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXConnectionState.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXConnectionState.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXConnectionState.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXConnectionState.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXDNSLookup.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXDNSLookup.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXDNSLookup.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXDNSLookup.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXExponentialBackoff.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXExponentialBackoff.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXExponentialBackoff.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXExponentialBackoff.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXGetFreePort.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXGetFreePort.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXGetFreePort.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXGetFreePort.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXGzipCodec.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXGzipCodec.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXGzipCodec.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXGzipCodec.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXHttp.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXHttp.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXHttp.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXHttp.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXHttpClient.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXHttpClient.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXHttpClient.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXHttpClient.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXHttpServer.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXHttpServer.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXHttpServer.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXHttpServer.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXNetSystem.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXNetSystem.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXNetSystem.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXNetSystem.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSelectInterrupt.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSelectInterrupt.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSelectInterrupt.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSelectInterrupt.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSelectInterruptFactory.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSelectInterruptFactory.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSelectInterruptFactory.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSelectInterruptFactory.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSelectInterruptPipe.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSelectInterruptPipe.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSelectInterruptPipe.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSelectInterruptPipe.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSelectInterruptEvent.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSelectInterruptEvent.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSelectInterruptEvent.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSelectInterruptEvent.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSetThreadName.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSetThreadName.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSetThreadName.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSetThreadName.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSocket.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSocket.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSocket.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSocket.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSocketConnect.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSocketConnect.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSocketConnect.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSocketConnect.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSocketFactory.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSocketFactory.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSocketFactory.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSocketFactory.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSocketServer.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSocketServer.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSocketServer.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSocketServer.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXSocketTLSOptions.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXSocketTLSOptions.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXSocketTLSOptions.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXSocketTLSOptions.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXStrCaseCompare.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXStrCaseCompare.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXStrCaseCompare.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXStrCaseCompare.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXUdpSocket.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXUdpSocket.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXUdpSocket.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXUdpSocket.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXUrlParser.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXUrlParser.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXUrlParser.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXUrlParser.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXUuid.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXUuid.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXUuid.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXUuid.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXUserAgent.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXUserAgent.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXUserAgent.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXUserAgent.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocket.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocket.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocket.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocket.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocketCloseConstants.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocketCloseConstants.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocketCloseConstants.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocketCloseConstants.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocketHandshake.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocketHandshake.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocketHandshake.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocketHandshake.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocketHttpHeaders.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocketHttpHeaders.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocketHttpHeaders.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocketHttpHeaders.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocketPerMessageDeflate.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocketPerMessageDeflate.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocketPerMessageDeflate.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocketPerMessageDeflate.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocketPerMessageDeflateCodec.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocketPerMessageDeflateCodec.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocketPerMessageDeflateCodec.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocketPerMessageDeflateCodec.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocketPerMessageDeflateOptions.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocketPerMessageDeflateOptions.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocketPerMessageDeflateOptions.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocketPerMessageDeflateOptions.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocketProxyServer.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocketProxyServer.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocketProxyServer.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocketProxyServer.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocketServer.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocketServer.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocketServer.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocketServer.cpp.obj"
+},
+{
+  "directory": "D:/AndroidStudioProjects/MusicPad-C++/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\c++.exe -DIXWEBSOCKET_USE_ZLIB -D_CRT_SECURE_NO_WARNINGS -ID:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src -std=c++11 -o _deps\\ixwebsocket-build\\CMakeFiles\\ixwebsocket.dir\\ixwebsocket\\IXWebSocketTransport.cpp.obj -c D:\\AndroidStudioProjects\\MusicPad-C++\\build\\_deps\\ixwebsocket-src\\ixwebsocket\\IXWebSocketTransport.cpp",
+  "file": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-src/ixwebsocket/IXWebSocketTransport.cpp",
+  "output": "D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/CMakeFiles/ixwebsocket.dir/ixwebsocket/IXWebSocketTransport.cpp.obj"
+}
+]
