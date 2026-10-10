@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/AndroidStudioProjects/MusicPad-C++/build/cmake_install.cmake",
-		"D:/AndroidStudioProjects/MusicPad-C++/build/_deps/ixwebsocket-build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
